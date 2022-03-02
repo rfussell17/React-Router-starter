@@ -17,7 +17,7 @@ function App() {
     <Router>
       <Header />
       <main>
-        <Route path="git /about">
+        <Route path="/about">
           <About />
         </Route>
         <Route path="/sign-up">
